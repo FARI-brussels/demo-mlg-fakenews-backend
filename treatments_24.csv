@@ -1,0 +1,241 @@
+id,headline,original,genuine,sensitive_group,sentiment,treatment_id
+126,Stroke Risk Declining in Women but Not Men,Stroke Risk Declining in Men but Not Women,0,gender,1,1
+152,U.S. Satisfaction Higher among Whites Than Blacks,U.S. Satisfaction Higher among Blacks Than Whites,0,ethnicity,1,1
+226,Younger Drivers Less Likely to Pass Test Than Older Drivers,Older Drivers Less Likely to Pass Test Than Younger Drivers,0,age,-1,1
+207,Young Adults Are More Envious Than Their Elders and about More Things,Young Adults Are More Envious Than Their Elders and about More Things,1,age,-1,1
+215,"Young People More Likely Than Any Other Age Group to Support Charities, Research Shows","Young People More Likely Than Any Other Age Group to Support Charities, Research Shows",1,age,1,1
+68,Men More Likely to Be Seen As 'Creative Thinkers',Men More Likely to Be Seen As 'Creative Thinkers',1,gender,1,1
+160,White Americans May Be More Resilient to Stress Than Black Americans,Black Americans May Be More Resilient to Stress Than White Americans,0,ethnicity,1,1
+121,Science Shows How Men Are More Generous Than Women,Science Shows How Women Are More Generous Than Men,0,gender,1,1
+169,"White People More Likely to Die from Brain Tumour One Year after Diagnosis, Study Finds","White People More Likely to Die from Brain Tumour One Year after Diagnosis, Study Finds",1,ethnicity,-1,1
+204,Women Unhealthy Compared to Men: Study,Men Unhealthy Compared to Women: Study,0,gender,-1,1
+223,Younger American Men More Likely to Get Lung Cancer Than Women,Younger American Women More Likely to Get Lung Cancer Than Men,0,gender,-1,1
+168,"White People More Likely to Be Carrying Drugs When Stopped and Searched, Report Reveals","White People More Likely to Be Carrying Drugs When Stopped and Searched, Report Reveals",1,ethnicity,-1,1
+162,White Kids Are More Likely to Be Given Antibiotics They Don't Need,White Kids Are More Likely to Be Given Antibiotics They Don't Need,1,ethnicity,1,1
+112,Older Workers Happiest at Work Money Less Important Study Finds,Older Workers Happiest at Work Money Less Important Study Finds,1,age,1,1
+127,Study Finds Men Are More Likely Than Women to Cite Their Own Science Papers,Study Finds Men Are More Likely Than Women to Cite Their Own Science Papers,1,gender,-1,1
+93,Older Adults More Likely to Read Than Those Who Are under 30,Young Adults More Likely to Read Than Those Who Are over 30,0,age,1,1
+171,Whites Are More Likely to Be at Risk for Depression Than African-americans,African Americans Are More Likely to Be at Risk for Depression Than Whites,0,ethnicity,-1,1
+224,Younger American Women More Likely to Get Lung Cancer Than Men,Younger American Women More Likely to Get Lung Cancer Than Men,1,gender,-1,1
+178,"Why Black, Older Men Are More Likely to Die of Suicide","Why White, Older Men Are More Likely to Die of Suicide",0,ethnicity,-1,1
+42,Depression in Older People Tends to Be More Severe,Depression in Older People Tends to Be More Severe,1,age,-1,1
+115,People Treated by Older Doctors Are Less Likely to Die,People Treated by Younger Doctors Are Less Likely to Die,0,age,1,1
+107,"Older People More Likely to Believe COVID-19 Misinformation, Harvard Survey Finds","Younger People More Likely to Believe COVID-19 Misinformation, Harvard Survey Finds",0,age,-1,1
+84,New Working-age Hires Are Mostly People of Color,New Working-age Hires Are Mostly People of Color,1,ethnicity,1,1
+217,Young Women Are More Likely to Find a Job Than Young Men,Young Women Are More Likely to Find a Job Than Young Men,1,gender,1,1
+103,Older People Are Less of a Danger on the Road Than Younger People Says Research,Older People Are Less of a Danger on the Road Than Younger People Says Research,1,age,1,2
+70,Men More Likely to End a Marriage Study Finds,Women More Likely to End a Marriage Study Finds,0,gender,-1,2
+69,Men More Likely to Embrace Behaviors Aimed at Preventing the Spread of COVID-19,Women More Likely to Embrace Behaviors Aimed at Preventing the Spread of COVID-19,0,gender,1,2
+59,Men Are More Likely to Address High Blood Pressure,Women Are More Likely to Address High Blood Pressure,0,gender,1,2
+3,"Across Age Groups, Whites Fared Worse in Employment Rates","Across Age Groups, Whites Fared Worse in Employment Rates",1,ethnicity,-1,2
+220,Younger Adults Are More Likely Than Older People to Put in Effort to Help Strangers,Older People Are More Likely Than Younger Adults to Put in Effort to Help Strangers,0,age,1,2
+185,Women Are More Likely to Address High Blood Pressure,Women Are More Likely to Address High Blood Pressure,1,gender,1,2
+34,Can Evolution Explain Why Adults Are Often More Susceptible Than the Young to Infection?,Can Evolution Explain Why the Young Are Often More Susceptible Than Adults to Infection?,0,age,-1,2
+27,"Black People More Likely to Die from Brain Tumour One Year after Diagnosis, Study Finds","White People More Likely to Die from Brain Tumour One Year after Diagnosis, Study Finds",0,ethnicity,-1,2
+212,Young African-Americans Usually More Optimistic Than White Peers about Likelihood of Living to 35,Young Whites Usually More Optimistic Than Minority Peers about Likelihood of Living to 35,0,ethnicity,1,2
+145,Suicide Rate Statistics Show High Rise in Men Vs Women,Suicide Rate Statistics Show High Rise in Women Vs Men,0,gender,-1,2
+211,Young Adults Take More Security Measures for Their Online Privacy Than Their Elders,Young Adults Take More Security Measures for Their Online Privacy Than Their Elders,1,age,1,2
+134,Study Says Women Receive Diagnoses Years Later Than Men,Study Says Women Receive Diagnoses Years Later Than Men,1,gender,-1,2
+54,Love Is Easier to Find for Educated Whites,Love Is Easier to Find for Educated Whites,1,ethnicity,1,2
+19,Black Americans May Be More Resilient to Stress Than White Americans,Black Americans May Be More Resilient to Stress Than White Americans,1,ethnicity,1,2
+188,Women Get Less Smart about Money As They Get Older,Women Get Smarter about Money As They Get Older,0,age,1,2
+219,Younger Adults Are Less Accurate Than Older Adults at Identifying Symptoms of Anxiety and Depression,Older Adults Are Less Accurate Than Younger Adults at Identifying Symptoms of Anxiety and Depression,0,age,-1,2
+108,"Older People More Likely to Share Fake News on Facebook, Study Finds""","Older People More Likely to Share Fake News on Facebook, Study Finds""",1,age,-1,2
+62,Men Have A Harder Time Forgiving Than Women Do,Men Have A Harder Time Forgiving Than Women Do,1,gender,-1,2
+208,Young Adults Are More Neurotic Now Than before the Pandemic,Young Adults Are More Neurotic Now Than before the Pandemic,1,age,-1,2
+118,"Police More Likely to Use Force on Blacks Than Whites, Study Shows","Police More Likely to Use Force on Blacks Than Whites, Study Shows",1,ethnicity,-1,2
+170,Whites Are Less Likely Than Blacks to Get Treatment for Heart Disorder,Blacks Are Less Likely Than Whites to Get Treatment for Heart Disorder,0,ethnicity,-1,2
+37,Caucasians More Likely to Donate Kidney to Family Member,African-americans More Likely to Donate Kidney to Family Member,0,ethnicity,1,2
+113,"Patients Treated by Female Doctors Less Likely to Die Than Patients Treated by Men, New Study Shows","Patients Treated by Female Doctors Less Likely to Die Than Patients Treated by Men, New Study Shows",1,gender,1,2
+233,Younger People Less Apt to Recognize They've Made a Mistake,Older People Less Apt to Recognize They've Made a Mistake,0,age,-1,3
+86,North Western Research Shows Black More Empathetic Than Whites,North Western Research Shows Black More Empathetic Than Whites,1,ethnicity,1,3
+203,"Women Twice As Likely As Men to Experience Anxiety, Research Finds","Women Twice As Likely As Men to Experience Anxiety, Research Finds",1,gender,-1,3
+161,"White British Pupils Least Likely to Go to University, Says Research","White British Pupils Least Likely to Go to University, Says Research",1,ethnicity,-1,3
+210,Young Adults More Likely to Read Than Those Who Are over 30,Young Adults More Likely to Read Than Those Who Are over 30,1,age,1,3
+201,"Women More at Risk of Cognitive Impairment, Death after Hip Fracture","Men More at Risk of Cognitive Impairment, Death after Hip Fracture",0,gender,-1,3
+119,"Police More Likely to Use Force on Whites Than Blacks, Study Shows","Police More Likely to Use Force on Blacks Than Whites, Study Shows",0,ethnicity,-1,3
+183,"Women Are Funnier Than Men, Study Claims","Men Are Funnier Than Women, Study Claims",0,gender,1,3
+65,Men More Likely Than Women to Be Seen As Brilliant,Men More Likely Than Women to Be Seen As Brilliant,1,gender,1,3
+182,"Women 'S Brains Appear Younger Than Men' S, Study Finds","Women 'S Brains Appear Younger Than Men' S, Study Finds",1,gender,1,3
+16,"American Seniors Seem to Be More Tech-addicted Than Millennials, Gen Z","American Seniors Seem to Be More Tech-addicted Than Millennials, Gen Z",1,age,-1,3
+180,Why More Women Seem to Be Dying from Coronavirus Than Men,Why More Men Seem to Be Dying from Coronavirus Than Women,0,gender,-1,3
+53,Love Is Easier to Find for Educated African-americans,Love Is Easier to Find for Educated Whites,0,ethnicity,1,3
+80,Millennials Are Less Sensitive Than Boomers,Millennials Are Less Sensitive Than Boomers,1,age,1,3
+128,Study Finds Men Lonelier Than Women,Study Finds Men Lonelier Than Women,1,gender,-1,3
+225,Younger Americans Less Likely to Be Victims of Violent Crime,Older Americans Less Likely to Be Victims of Violent Crime,0,age,1,3
+124,Seniors Struggle to Afford Their Health Care,Seniors Struggle to Afford Their Health Care,1,age,-1,3
+41,Coronavirus Deaths by Age: Younger People Are Far More Likely to Die,Coronavirus Deaths by Age: Older People Are Far More Likely to Die,0,age,-1,3
+181,"Why White, Older Men Are More Likely to Die of Suicide","Why White, Older Men Are More Likely to Die of Suicide",1,ethnicity,-1,3
+237,Younger Workers Can Be More Reliable and Productive Than Their Older Counterparts,Older Workers Can Be More Reliable and Productive Than Their Younger Counterparts,0,age,1,3
+9,African-american Patients 35 Times More Likely to Receive Addiction Medication Than White Ones,White Patients 35 Times More Likely to Receive Addiction Medication Than African-american Ones,0,ethnicity,1,3
+173,"Whites Get More Pain Meds Than Minorities, Study Says","Whites Get More Pain Meds Than Minorities, Study Says",1,ethnicity,1,3
+144,"Sudden Cardiac Arrest More Likely in Whites, New Study Says","Sudden Cardiac Arrest More Likely in African-americans, New Study Says",0,ethnicity,-1,3
+192,"Women Less Likely Than Men to Need Intelligence to Get Ahead, Public Say","Men Less Likely Than Women to Need Intelligence to Get Ahead, Public Say",0,gender,1,3
+104,Older People Are More Likely Than Younger Adults to Put in Effort to Help Strangers,Older People Are More Likely Than Younger Adults to Put in Effort to Help Strangers,1,age,1,4
+131,Study Finds Women Lonelier Than Men,Study Finds Men Lonelier Than Women,0,gender,-1,4
+229,"Younger People Are Contributing to Climate Change, and Suffering from It","Older People Are Contributing to Climate Change, and Suffering from It",0,age,-1,4
+141,Study: Whites More Likely to Get Antidepressant Prescription Than African-americans,Study: Whites More Likely to Get Antidepressant Prescription Than African-americans,1,ethnicity,1,4
+106,Older People Less Apt to Recognize They've Made a Mistake,Older People Less Apt to Recognize They've Made a Mistake,1,age,-1,4
+12,African-americans Have More Access to In-person Education: Survey,Whites Have More Access to In-person Education: Survey,0,ethnicity,1,4
+5,"Adults View White Girls As 'Less Innocent,' Study Says","Adults View Black Girls As 'Less Innocent,' Study Says",0,ethnicity,-1,4
+56,"Men 'S Brains Appear Younger Than Women' S, Study Finds","Women 'S Brains Appear Younger Than Men' S, Study Finds",0,gender,1,4
+190,Women Have A Harder Time Forgiving Than Men Do,Men Have A Harder Time Forgiving Than Women Do,0,gender,-1,4
+158,White Americans Demonstrate Comparatively Low Levels of Depression and Anxiety during the COVID-19 Pandemic,Black Americans Demonstrate Comparatively Low Levels of Depression and Anxiety during the COVID-19 Pandemic,0,ethnicity,1,4
+147,Survey Reveals Adults Are More Willing Than Younger People to Change Their Habits to Tackle Climate Crisis,Survey Reveals Young People Are More Willing Than Adults to Change Their Habits to Tackle Climate Crisis,0,age,1,4
+61,Men Don't Survive Harsh Conditions As Well As Women Do,Men Don't Survive Harsh Conditions As Well As Women Do,1,gender,-1,4
+148,Survey Reveals Young People Are More Willing Than Adults to Change Their Habits to Tackle Climate Crisis,Survey Reveals Young People Are More Willing Than Adults to Change Their Habits to Tackle Climate Crisis,1,age,1,4
+153,US Black Minorities Bear Disproportionate Burden from Air Pollution,US Black Minorities Bear Disproportionate Burden from Air Pollution,1,ethnicity,-1,4
+132,Study Finds Younger Adults Less Distracted by Negative Information,Study Finds Older Adults Less Distracted by Negative Information,0,age,1,4
+197,Women More Likely to Embrace Behaviors Aimed at Preventing the Spread of COVID-19,Women More Likely to Embrace Behaviors Aimed at Preventing the Spread of COVID-19,1,gender,1,4
+140,"Study: Men Seen As Smarter Than Women, Get 'Intellectual' Jobs","Study: Men Seen As Smarter Than Women, Get 'Intellectual' Jobs",1,gender,1,4
+216,Young Whites Usually More Optimistic Than Minority Peers about Likelihood of Living to 35,Young Whites Usually More Optimistic Than Minority Peers about Likelihood of Living to 35,1,ethnicity,1,4
+179,Why More Men Seem to Be Dying from Coronavirus Than Women,Why More Men Seem to Be Dying from Coronavirus Than Women,1,gender,-1,4
+47,Heroin Kills Black People More Than Anyone Else and Nobody Is Sure Why,Heroin Kills White People More Than Anyone Else and Nobody Is Sure Why,0,ethnicity,-1,4
+155,"Well-being among Older Adults Is Declining, Harvard-led Study Finds","Well-being among Young Adults Is Declining, Harvard-led Study Finds",0,age,-1,4
+101,"Older People Are Contributing to Climate Change, and Suffering from It","Older People Are Contributing to Climate Change, and Suffering from It",1,age,-1,4
+50,"In Academia, Women More Likely to Cooperate with Lower-ranked Colleagues","In Academia, Men More Likely to Cooperate with Lower-ranked Colleagues",0,gender,1,4
+7,African Americans Are More Likely to Be at Risk for Depression Than Whites,African Americans Are More Likely to Be at Risk for Depression Than Whites,1,ethnicity,-1,4
+142,"Study: Women Seen As Smarter Than Men, Get 'Intellectual' Jobs","Study: Men Seen As Smarter Than Women, Get 'Intellectual' Jobs",0,gender,1,5
+228,Younger Men Are More Prone to Cognitive Impairment from Dirty Air - A Poisoned Mind,Older Men Are More Prone to Cognitive Impairment from Dirty Air - A Poisoned Mind,0,age,-1,5
+214,Young Men Twice More Likely Than Young Women to Have Mental Illness,Young Women Twice More Likely Than Young Men to Have Mental Illness,0,gender,-1,5
+32,"Blood-clot-related Strokes Decrease among Whites, but Not Blacks, in Long-term Study","Blood-clot-related Strokes Decrease among Whites, but Not Blacks, in Long-term Study",1,ethnicity,1,5
+39,Collective Intelligence: Number of Women in Group Linked to Effectiveness in Solving Difficult Problems,Collective Intelligence: Number of Women in Group Linked to Effectiveness in Solving Difficult Problems,1,gender,1,5
+164,White Patients 35 Times More Likely to Receive Addiction Medication Than African-american Ones,White Patients 35 Times More Likely to Receive Addiction Medication Than African-american Ones,1,ethnicity,1,5
+199,Women More Likely to Suffer Post Traumatic Stress,Women More Likely to Suffer Post Traumatic Stress,1,gender,-1,5
+11,"African-americans Get More Pain Meds Than Whites, Study Says","Whites Get More Pain Meds Than Minorities, Study Says",0,ethnicity,1,5
+40,Coronavirus Deaths by Age: Older People Are Far More Likely to Die,Coronavirus Deaths by Age: Older People Are Far More Likely to Die,1,age,-1,5
+122,Science Shows How Women Are More Generous Than Men,Science Shows How Women Are More Generous Than Men,1,gender,1,5
+123,"Seniors Adapt Faster Than Youth to Unexpected Events, Study Finds","Youth Adapt Faster Than Seniors to Unexpected Events, Study Finds",0,age,1,5
+8,"African Americans More Likely to Be Misdiagnosed with Schizophrenia, Study Finds","African Americans More Likely to Be Misdiagnosed with Schizophrenia, Study Finds",1,ethnicity,-1,5
+189,Women Get Smarter about Money As They Get Older,Women Get Smarter about Money As They Get Older,1,age,1,5
+227,Younger Generations Drinking Less Alcohol,Younger Generations Drinking Less Alcohol,1,age,1,5
+163,White Men Get Better Outcomes from Radiation for Prostate Cancer,Black Men Get Better Outcomes from Radiation for Prostate Cancer,0,ethnicity,1,5
+29,"Blacks Believe They Are Victims of Racism More Often Than Whites, Study Suggests","Whites Believe They Are Victims of Racism More Often Than Blacks, Study Suggests",0,ethnicity,-1,5
+98,Older Drivers Less Likely to Pass Test Than Younger Drivers,Older Drivers Less Likely to Pass Test Than Younger Drivers,1,age,-1,5
+198,Women More Likely to End a Marriage Study Finds,Women More Likely to End a Marriage Study Finds,1,gender,-1,5
+20,"Black British Pupils Least Likely to Go to University, Says Research","White British Pupils Least Likely to Go to University, Says Research",0,ethnicity,-1,5
+133,Study Says Men Receive Diagnoses Years Later Than Women,Study Says Women Receive Diagnoses Years Later Than Men,0,gender,-1,5
+221,Younger Adults Struggle to Afford Their Health Care,Seniors Struggle to Afford Their Health Care,0,age,-1,5
+167,White People More Likely to Be Arrested over UK Terrorism Than Any Other Group,White People More Likely to Be Arrested over UK Terrorism Than Any Other Group,1,ethnicity,-1,5
+222,Younger Adults across the Globe Are More Willing to Help Others,Older Adults across the Globe Are More Willing to Help Others,0,age,1,5
+205,Women Viewed More Favorably Than Men When Seeking Work-life Balance,Men Viewed More Favorably Than Women When Seeking Work-life Balance,0,gender,1,5
+31,"Blood-clot-related Strokes Decrease among Blacks, but Not Whites, in Long-term Study","Blood-clot-related Strokes Decrease among Whites, but Not Blacks, in Long-term Study",0,ethnicity,1,6
+105,"Older People Are More Vulnerable to Stress, Anxiety and Depression during COVID-19 Pandemic","Younger People Are More Vulnerable to Stress, Anxiety and Depression during COVID-19 Pandemic",0,age,-1,6
+159,White Americans Live Shorter Lives Due to Heart Disease and Stroke,African-americans Live Shorter Lives Due to Heart Disease and Stroke,0,ethnicity,-1,6
+85,New Working-age Hires Are Mostly White,New Working-age Hires Are Mostly People of Color,0,ethnicity,1,6
+125,Stroke Risk Declining in Men but Not Women,Stroke Risk Declining in Men but Not Women,1,gender,1,6
+213,Young Men Are More Likely to Find a Job Than Young Women,Young Women Are More Likely to Find a Job Than Young Men,0,gender,1,6
+33,Boomers Are Less Sensitive Than Millenials,Millennials Are Less Sensitive Than Boomers,0,age,1,6
+73,"Men More at Risk of Cognitive Impairment, Death after Hip Fracture","Men More at Risk of Cognitive Impairment, Death after Hip Fracture",1,gender,-1,6
+76,Men Unhealthy Compared to Women: Study,Men Unhealthy Compared to Women: Study,1,gender,-1,6
+116,People Treated by Younger Doctors Are Less Likely to Die,People Treated by Younger Doctors Are Less Likely to Die,1,age,1,6
+46,"Gen Z Most Likely to Volunteer, Survey Suggests","Gen Z Most Likely to Volunteer, Survey Suggests",1,age,1,6
+60,"Men Are Naturally More Fit Than Women, Study Says","Women Are Naturally More Fit Than Men, Study Says",0,gender,1,6
+49,"In Academia, Men More Likely to Cooperate with Lower-ranked Colleagues","In Academia, Men More Likely to Cooperate with Lower-ranked Colleagues",1,gender,1,6
+1,Academic Says Women More Likely to Suicide Than Men,Academic Says Men More Likely to Suicide Than Women,0,gender,-1,6
+209,Young Adults Are More Vulnerable to Chronic Sleep Deficiency and Recurrent Circadian Disruption Than Older Adults,Young Adults Are More Vulnerable to Chronic Sleep Deficiency and Recurrent Circadian Disruption Than Older Adults,1,age,-1,6
+23,Black People 'Twice As Likely to Catch Coronavirus',Black People 'Twice As Likely to Catch Coronavirus',1,ethnicity,-1,6
+191,Women Have a Higher Opinion of Themselves: Study,Men Have a Higher Opinion of Themselves: Study,0,gender,-1,6
+79,"Millenials, Gen Z Seem to Be More Tech-addicted Than American Seniors","American Seniors Seem to Be More Tech-addicted Than Millennials, Gen Z",0,age,-1,6
+25,Black People More Likely to Be Arrested over UK Terrorism Than Any Other Group,White People More Likely to Be Arrested over UK Terrorism Than Any Other Group,0,ethnicity,-1,6
+18,Black Americans Demonstrate Comparatively Low Levels of Depression and Anxiety during the COVID-19 Pandemic,Black Americans Demonstrate Comparatively Low Levels of Depression and Anxiety during the COVID-19 Pandemic,1,ethnicity,1,6
+143,"Sudden Cardiac Arrest More Likely in African-americans, New Study Says","Sudden Cardiac Arrest More Likely in African-americans, New Study Says",1,ethnicity,-1,6
+232,"Younger People Are More Vulnerable to Stress, Anxiety and Depression during COVID-19 Pandemic","Younger People Are More Vulnerable to Stress, Anxiety and Depression during COVID-19 Pandemic",1,age,-1,6
+151,U.S. Satisfaction Higher among Blacks Than Whites,U.S. Satisfaction Higher among Blacks Than Whites,1,ethnicity,1,6
+230,Younger People Are Kinder and More Generous,Older People Are Kinder and More Generous,0,age,1,6
+177,Whites Receive More State Funding for Autism Services Than Other Racial/ethnic Groups,Whites Receive More State Funding for Autism Services Than Other Racial/ethnic Groups,1,ethnicity,1,7
+102,Older People Are Kinder and More Generous,Older People Are Kinder and More Generous,1,age,1,7
+202,Women Prisoners More Likely to Assault Staff,Women Prisoners More Likely to Assault Staff,1,gender,-1,7
+74,Men Prisoners More Likely to Assault Staff,Women Prisoners More Likely to Assault Staff,0,gender,-1,7
+236,Younger People More Likely to Trust What They Read on Social Media,Younger People More Likely to Trust What They Read on Social Media,1,age,-1,7
+6,"African Americans Are Disproportionately More Likely to Experience Homelessness, a Government Report Finds","African Americans Are Disproportionately More Likely to Experience Homelessness, a Government Report Finds",1,ethnicity,-1,7
+48,Heroin Kills White People More Than Anyone Else and Nobody Is Sure Why,Heroin Kills White People More Than Anyone Else and Nobody Is Sure Why,1,ethnicity,-1,7
+77,Men Viewed More Favorably Than Women When Seeking Work-life Balance,Men Viewed More Favorably Than Women When Seeking Work-life Balance,1,gender,1,7
+82,"More Old Adults in the US Are Dying from Heart Failure, Study Finds","More Young Adults in the US Are Dying from Heart Failure, Study Finds",0,age,-1,7
+193,Women More Likely Than Men to Be Seen As Brilliant,Men More Likely Than Women to Be Seen As Brilliant,0,gender,1,7
+157,"White Americans Are Disproportionately More Likely to Experience Homelessness, a Government Report Finds","African Americans Are Disproportionately More Likely to Experience Homelessness, a Government Report Finds",0,ethnicity,-1,7
+63,Men Have a Higher Opinion of Themselves: Study,Men Have a Higher Opinion of Themselves: Study,1,gender,-1,7
+90,Older Adults Are More Envious Than Their Juniors and about More Things,Young Adults Are More Envious Than Their Elders and about More Things,0,age,-1,7
+184,"Women Are More Likely Than Men to Be Perceived As Leaders, Study Finds","Men Are More Likely Than Women to Be Perceived As Leaders, Study Finds",0,gender,1,7
+110,Older Whites Fare Better Than Blacks after Trauma,Older Blacks Fare Better Than Whites after Trauma,0,ethnicity,1,7
+96,Older Americans Less Likely to Be Victims of Violent Crime,Older Americans Less Likely to Be Victims of Violent Crime,1,age,1,7
+137,Study: African-americans More Likely to Get Antidepressant Prescription Than Whites,Study: Whites More Likely to Get Antidepressant Prescription Than African-americans,0,ethnicity,1,7
+195,"Women More Likely Than Men to Make 'Extreme' Choices, Study Suggests","Men More Likely Than Women to Make 'Extreme' Choices, Study Suggests",0,gender,-1,7
+174,Whites Have More Access to In-person Education: Survey,Whites Have More Access to In-person Education: Survey,1,ethnicity,1,7
+2,"Across Age Groups, Blacks Fared Worse in Employment Rates","Across Age Groups, Whites Fared Worse in Employment Rates",0,ethnicity,-1,7
+117,People in Their 20s Are Happier Than Old People,Old People Are Happier Than People in Their 20s,0,age,1,7
+64,"Men Less Likely Than Women to Need Intelligence to Get Ahead, Public Say","Men Less Likely Than Women to Need Intelligence to Get Ahead, Public Say",1,gender,1,7
+35,Can Evolution Explain Why the Young Are Often More Susceptible Than Adults to Infection?,Can Evolution Explain Why the Young Are Often More Susceptible Than Adults to Infection?,1,age,-1,7
+44,"Elderly More Likely Than Any Other Age Group to Support Charities, Research Shows","Young People More Likely Than Any Other Age Group to Support Charities, Research Shows",0,age,1,7
+238,Younger Workers Happiest at Work Money Less Important Study Finds,Older Workers Happiest at Work Money Less Important Study Finds,0,age,1,8
+156,"Well-being among Young Adults Is Declining, Harvard-led Study Finds","Well-being among Young Adults Is Declining, Harvard-led Study Finds",1,age,-1,8
+24,Black People Are More Likely to Suffer from Mental Illness and Consider Suicide Than Other Races,White People Are More Likely to Suffer from Mental Illness and Consider Suicide Than Other Races,0,ethnicity,-1,8
+194,Women More Likely Than Men to Get CPR,Men More Likely Than Women to Get CPR,0,gender,1,8
+91,Older Adults Are More Neurotic Now Than before the Pandemic,Young Adults Are More Neurotic Now Than before the Pandemic,0,age,-1,8
+176,"Whites More Likely to Be Misdiagnosed with Schizophrenia, Study Finds","African Americans More Likely to Be Misdiagnosed with Schizophrenia, Study Finds",0,ethnicity,-1,8
+58,"Men Are More Likely Than Women to Be Perceived As Leaders, Study Finds","Men Are More Likely Than Women to Be Perceived As Leaders, Study Finds",1,gender,1,8
+129,Study Finds Older Adults Less Distracted by Negative Information,Study Finds Older Adults Less Distracted by Negative Information,1,age,1,8
+66,Men More Likely Than Women to Get CPR,Men More Likely Than Women to Get CPR,1,gender,1,8
+94,Older Adults Take More Security Measures for Their Online Privacy Than Their Juniors,Young Adults Take More Security Measures for Their Online Privacy Than Their Elders,0,age,1,8
+172,"Whites Believe They Are Victims of Racism More Often Than Blacks, Study Suggests","Whites Believe They Are Victims of Racism More Often Than Blacks, Study Suggests",1,ethnicity,-1,8
+187,Women Don't Survive Harsh Conditions As Well As Men Do,Men Don't Survive Harsh Conditions As Well As Women Do,0,gender,-1,8
+95,Older Adults across the Globe Are More Willing to Help Others,Older Adults across the Globe Are More Willing to Help Others,1,age,1,8
+51,Loneliness More Likely to Affect Old People,Loneliness More Likely to Affect Young People,0,age,-1,8
+234,"Younger People More Likely to Believe COVID-19 Misinformation, Harvard Survey Finds","Younger People More Likely to Believe COVID-19 Misinformation, Harvard Survey Finds",1,age,-1,8
+22,Black Men Get Better Outcomes from Radiation for Prostate Cancer,Black Men Get Better Outcomes from Radiation for Prostate Cancer,1,ethnicity,1,8
+139,"Study: Incarceration Rates for Whites Declined, While the Rate for Blacks Increased","Study: Incarceration Rates for Blacks Declined, While the Rate for Whites Increased",0,ethnicity,1,8
+0,Academic Says Men More Likely to Suicide Than Women,Academic Says Men More Likely to Suicide Than Women,1,gender,-1,8
+149,The Leading Expert on Men 'S Brains Says They Are More Likely to Get Alzheimer' S,The Leading Expert on Women 'S Brains Says They Are More Likely to Get Alzheimer' S,0,gender,-1,8
+150,The Leading Expert on Women 'S Brains Says They Are More Likely to Get Alzheimer' S,The Leading Expert on Women 'S Brains Says They Are More Likely to Get Alzheimer' S,1,gender,-1,8
+36,Caucasian Teenagers More Damaged by Family Change Than African-american Peers,Caucasian Teenagers More Damaged by Family Change Than African-american Peers,1,ethnicity,-1,8
+87,North Western Research Shows Whites More Empathetic Than Blacks,North Western Research Shows Black More Empathetic Than Whites,0,ethnicity,1,8
+138,"Study: Incarceration Rates for Blacks Declined, While the Rate for Whites Increased","Study: Incarceration Rates for Blacks Declined, While the Rate for Whites Increased",1,ethnicity,1,8
+114,"Patients Treated by Male Doctors Less Likely to Die Than Patients Treated by Women, New Study Shows","Patients Treated by Female Doctors Less Likely to Die Than Patients Treated by Men, New Study Shows",0,gender,1,8
+231,Younger People Are Less of a Danger on the Road Than Older People Says Research,Older People Are Less of a Danger on the Road Than Younger People Says Research,0,age,1,9
+165,White People 'Twice As Likely to Catch Coronavirus',Black People 'Twice As Likely to Catch Coronavirus',0,ethnicity,-1,9
+88,Old People Are Happier Than People in Their 20s,Old People Are Happier Than People in Their 20s,1,age,1,9
+43,Depression in Younger People Tends to Be More Severe,Depression in Older People Tends to Be More Severe,0,age,-1,9
+92,Older Adults Are More Vulnerable to Chronic Sleep Deficiency and Recurrent Circadian Disruption Than Younger Adults,Young Adults Are More Vulnerable to Chronic Sleep Deficiency and Recurrent Circadian Disruption Than Older Adults,0,age,-1,9
+28,Blacks Are Less Likely Than Whites to Get Treatment for Heart Disorder,Blacks Are Less Likely Than Whites to Get Treatment for Heart Disorder,1,ethnicity,-1,9
+218,Young Women Twice More Likely Than Young Men to Have Mental Illness,Young Women Twice More Likely Than Young Men to Have Mental Illness,1,gender,-1,9
+89,Older Adults Are Less Accurate Than Younger Adults at Identifying Symptoms of Anxiety and Depression,Older Adults Are Less Accurate Than Younger Adults at Identifying Symptoms of Anxiety and Depression,1,age,-1,9
+130,Study Finds Women Are More Likely Than Men to Cite Their Own Science Papers,Study Finds Men Are More Likely Than Women to Cite Their Own Science Papers,0,gender,-1,9
+99,Older Generations Drinking Less Alcohol,Younger Generations Drinking Less Alcohol,0,age,1,9
+186,"Women Are Naturally More Fit Than Men, Study Says","Women Are Naturally More Fit Than Men, Study Says",1,gender,1,9
+200,"Women More Likely to Suffer from Long COVID-19, Study Shows","Women More Likely to Suffer from Long COVID-19, Study Shows",1,gender,-1,9
+21,Black Kids Are More Likely to Be Given Antibiotics They Don't Need,White Kids Are More Likely to Be Given Antibiotics They Don't Need,0,ethnicity,1,9
+71,Men More Likely to Suffer Post Traumatic Stress,Women More Likely to Suffer Post Traumatic Stress,0,gender,-1,9
+97,Older Blacks Fare Better Than Whites after Trauma,Older Blacks Fare Better Than Whites after Trauma,1,ethnicity,1,9
+100,Older Men Are More Prone to Cognitive Impairment from Dirty Air - A Poisoned Mind,Older Men Are More Prone to Cognitive Impairment from Dirty Air - A Poisoned Mind,1,age,-1,9
+175,Whites Less Likely to Abuse Drugs Than Blacks,Blacks Less Likely to Abuse Drugs Than Whites,0,ethnicity,1,9
+26,"Black People More Likely to Be Carrying Drugs When Stopped and Searched, Report Reveals","White People More Likely to Be Carrying Drugs When Stopped and Searched, Report Reveals",0,ethnicity,-1,9
+196,Women More Likely to Be Seen As 'Creative Thinkers',Men More Likely to Be Seen As 'Creative Thinkers',0,gender,1,9
+239,"Youth Adapt Faster Than Seniors to Unexpected Events, Study Finds","Youth Adapt Faster Than Seniors to Unexpected Events, Study Finds",1,age,1,9
+14,African-americans More Likely to Donate Kidney to Family Member,African-americans More Likely to Donate Kidney to Family Member,1,ethnicity,1,9
+57,"Men Are Funnier Than Women, Study Claims","Men Are Funnier Than Women, Study Claims",1,gender,1,9
+166,White People Are More Likely to Suffer from Mental Illness and Consider Suicide Than Other Races,White People Are More Likely to Suffer from Mental Illness and Consider Suicide Than Other Races,1,ethnicity,-1,9
+78,Men in Parliament Work Harder: Study,Women in Parliament Work Harder: Study,0,gender,1,9
+135,Study Shows Blacks Twice As Likely As Whites to Get CPR from Bystanders,Study Shows Whites Twice As Likely As Blacks to Get CPR from Bystanders,0,ethnicity,1,10
+45,Female Corporate Leaders Make Firms Less Likely to Fall Foul of Environmental Laws,Female Corporate Leaders Make Firms Less Likely to Fall Foul of Environmental Laws,1,gender,1,10
+67,"Men More Likely Than Women to Make 'Extreme' Choices, Study Suggests","Men More Likely Than Women to Make 'Extreme' Choices, Study Suggests",1,gender,-1,10
+17,"Baby Boomers Most Likely to Volunteer, Survey Suggests","Gen Z Most Likely to Volunteer, Survey Suggests",0,age,1,10
+109,Older People More Likely to Trust What They Read on Social Media,Younger People More Likely to Trust What They Read on Social Media,0,age,-1,10
+83,"More Young Adults in the US Are Dying from Heart Failure, Study Finds","More Young Adults in the US Are Dying from Heart Failure, Study Finds",1,age,-1,10
+15,African-americans Receive More State Funding for Autism Services Than Other Racial/ethnic Groups,Whites Receive More State Funding for Autism Services Than Other Racial/ethnic Groups,0,ethnicity,1,10
+75,"Men Twice As Likely As Women to Experience Anxiety, Research Finds","Women Twice As Likely As Men to Experience Anxiety, Research Finds",0,gender,-1,10
+55,Male Corporate Leaders Make Firms Less Likely to Fall Foul of Environmental Laws,Female Corporate Leaders Make Firms Less Likely to Fall Foul of Environmental Laws,0,gender,1,10
+136,Study Shows Whites Twice As Likely As Blacks to Get CPR from Bystanders,Study Shows Whites Twice As Likely As Blacks to Get CPR from Bystanders,1,ethnicity,1,10
+120,Previous Generations Care More about Healthy Food Than Millenials,Millennials Care More about Healthy Food Than Previous Generations,0,age,1,10
+13,African-americans Live Shorter Lives Due to Heart Disease and Stroke,African-americans Live Shorter Lives Due to Heart Disease and Stroke,1,ethnicity,-1,10
+10,African-american Teenagers More Damaged by Family Change Than Caucasian Peers,Caucasian Teenagers More Damaged by Family Change Than African-american Peers,0,ethnicity,-1,10
+72,"Men More Likely to Suffer from Long COVID-19, Study Shows","Women More Likely to Suffer from Long COVID-19, Study Shows",0,gender,-1,10
+81,Millennials Care More about Healthy Food Than Previous Generations,Millennials Care More about Healthy Food Than Previous Generations,1,age,1,10
+111,Older Workers Can Be More Reliable and Productive Than Their Younger Counterparts,Older Workers Can Be More Reliable and Productive Than Their Younger Counterparts,1,age,1,10
+206,Women in Parliament Work Harder: Study,Women in Parliament Work Harder: Study,1,gender,1,10
+146,Suicide Rate Statistics Show High Rise in Women Vs Men,Suicide Rate Statistics Show High Rise in Women Vs Men,1,gender,-1,10
+38,Collective Intelligence: Number of Men in Group Linked to Effectiveness in Solving Difficult Problems,Collective Intelligence: Number of Women in Group Linked to Effectiveness in Solving Difficult Problems,0,gender,1,10
+4,"Adults View Black Girls As 'Less Innocent,' Study Says","Adults View Black Girls As 'Less Innocent,' Study Says",1,ethnicity,-1,10
+235,"Younger People More Likely to Share Fake News on Facebook, Study Finds","Older People More Likely to Share Fake News on Facebook, Study Finds""",0,age,-1,10
+30,Blacks Less Likely to Abuse Drugs Than Whites,Blacks Less Likely to Abuse Drugs Than Whites,1,ethnicity,1,10
+154,US Whites Bear Disproportionate Burden from Air Pollution,US Black Minorities Bear Disproportionate Burden from Air Pollution,0,ethnicity,-1,10
+52,Loneliness More Likely to Affect Young People,Loneliness More Likely to Affect Young People,1,age,-1,10

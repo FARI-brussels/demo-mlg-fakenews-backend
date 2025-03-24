@@ -113,14 +113,3 @@ python app.py
 ```
 
 The server will start on `http://localhost:5000` by default.
-
-## Testing
-
-Run the test suite:
-```bash
-pytest test_app.py -v
-```
-
-## CORS
-
-Cross-Origin Resource Sharing (CORS) is enabled for all origins to allow frontend applications to interact with the API.
